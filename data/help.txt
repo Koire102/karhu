@@ -1,0 +1,21 @@
+:arrow_forward: MIKÄ?
+<@389062735079407628> on <@353848203785011209>in kehittämä Discord- botti. Botti eroaa muista boteista suomalaisuudellaan.
+ ᅠ
+ ᅠ
+:arrow_forward: LINKIT
+Kotisivut:
+https://karhu.4d48.tk/
+ ᅠ
+ ᅠ
+:arrow_forward: KOMENNOT
+`[  ...  ]` Valinnainen parametri
+
+SATUNNAINEN
+```s!sananlasku [# id]      näyttää satunnaisen sananlaskun
+                         (tai tietty: muuta parametrin arvoa)
+s!fakta      [# id]      näyttää satunnaisen suomalaisen faktan
+                         (tai tietty: muuta parametrin arvoa)
+s!apua
+s!info                   näyttää botin käynnistyspäiväyksen
+s!moi @nimi              tervehtii
+s!oraakkeli kysymys      kysy oraakkelilta```
